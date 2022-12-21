@@ -1,0 +1,54 @@
+
+What are the regions in the MEGACORP?
+How many states have MEGACORP facilities?
+Which state or states have only one facility?
+For the states with only one facility, what are the names of the cities?
+
+What is the range of years?
+
+What is the earliest date and the latest date?
+
+Which value of Unit Status has the highest frequency? What percent of the data does this represent?
+
+Which value of Unit Status appears least frequently? What percent of the data does this represent?
+
+Which day of the week has the highest frequency? What percent of the data does this represent?
+
+What is the frequency for active unit on Sunday?
+
+Which day of the week has the highest failures?
+
+What is the degree of correlation between Unit Capacity and Facility Age?
+
+What is the degree of correlation between Unit Yield (actual) and Unit Downtime?
+
+At what unit age do we see the biggest drop in the unit reliability?
+
+What year did MEGACORP experience negative profits?
+
+By adding Product Brand, where are the losses in 2017 occurring?
+
+Which region or regions did not record any losses (Profit < 0) over the past five
+years?
+
+Which region or regions have not been profitable in the past five years?
+
+What was the unit capacity for Arizona in 2008?
+
+What was the unit capacity for Arizona in 2020?
+
+What is the total capacity for MEGACORP?
+
+Which state had the highest capacity across all years?
+
+Which states experienced a decrease in profits?
+
+What is the most profitable state for all years?
+
+Which state has the best average unit yield rate for all years?
+
+Which product lines are experiencing losses?
+
+What is the profit for the Toy brand for all years?
+
+What is the profit for the Toy brand for 2015 through 2019?
